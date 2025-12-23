@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+.vs/
+.vscode/
+*.dll
+*.exe
+*.pdb
+
+# Test results
+TestResults/
+coverage/
+*.trx
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+
+# Package files
+*.nupkg
+*.snupkg
+.nuget/
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+.env.local
